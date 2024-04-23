@@ -1,0 +1,7 @@
+Num of processors in the system (Total) :  3
+Core IDs in the system:  0
+1
+2
+Cache sizes in the system :  12288 KB
+12288 KB
+12288 KB

@@ -1,0 +1,28 @@
+os1 smart 0
+os1 operating system 1
+os2 smart 0
+os2 operating system 1
+os3 smart 0
+os3 operating system 1
+os4 smart 0
+os4 operating system 1
+random1 smart 0
+random1 operating system 0
+random2 smart 0
+random2 operating system 0
+random3 smart 0
+random3 operating system 0
+random4 smart 0
+random4 operating system 0
+random5 smart 0
+random5 operating system 0
+random6 smart 0
+random6 operating system 0
+random7 smart 0
+random7 operating system 0
+s1 smart 1
+s1 operating system 0
+s2 smart 1
+s2 operating system 0
+s3 smart 1
+s3 operating system 0
